@@ -40,7 +40,7 @@ Well-known architectural solutions can be roughly divided into 3 groups:
 
 * Fully decentralized. For example, devices are connected by a mesh network. Not suitable for wide area networks due to high hardware requirements
 * Centralized. For example, AWS. Provides a single entry point and ease of connection, but there is a high risk of failure in case of server problems
-* Hybrid. For example, [Robonomics Connectivity] (https://github.com/airalab/sensors-connectivity). Provides an address for devices on a "local" network and publishes data to a distributed IPFS message channel
+* Hybrid. For example, [Robonomics Connectivity](https://github.com/airalab/sensors-connectivity). Provides an address for devices on a "local" network and publishes data to a distributed IPFS message channel
 
 ## Comparison of AWS and Robonomics Connectivity
 
